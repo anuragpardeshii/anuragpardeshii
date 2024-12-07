@@ -1,34 +1,73 @@
-# Hi there, I'm Anurag Pardeshi! 👋
+# 🌟 Anurag Pardeshi
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Below, you'll find more information about me and my work.
+Hi! I'm **Anurag Pardeshi**, a passionate **Full Stack Developer** with expertise in the **MERN stack**. I enjoy building impactful web applications and solving real-world problems with clean, efficient code.
 
-## 🚀 About Me
+---
 
-- 🌱 I’m currently learning and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [pardeshianurag22@gmail.com]
+## 🌐 **Portfolio & Profiles**
 
-## 🛠️ Technologies & Tools
+- **Portfolio**: [anuragpardeshiportfolio.vercel.app](https://anuragpardeshiportfolio.vercel.app/)  
+- **LinkedIn**: [linkedin.com/in/pardeshianurag22](https://www.linkedin.com/in/pardeshianurag22/)  
+- **LeetCode**: [leetcode.com/u/anuragpardeshi](https://leetcode.com/u/anuragpardeshi/)  
 
-Here are some of the technologies and tools I work with:
+---
 
-- **Languages**: Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express, Django
-- **Databases**: MySQL, MongoDB
+## 🛠️ **Projects**
 
-## 📚 Projects
+### **Wisdom World Academy**  
+📘 A school website built with the **MERN stack** and **TailwindCSS**. This project offers an intuitive platform for students, teachers, and administrators to access school-related information seamlessly.  
+🔗 **GitHub**: [Wisdom World Academy](https://github.com/anuragpardeshii/wwa)  
 
-Here are some of the projects I've worked on:
+---
 
-### Project 1: Sidebar-Menu (https://github.com/anuragpardeshii/Sidebar-Menu-CSS.git)
-Description: The CSS Sidebar Menu is a responsive and customizable sidebar navigation menu created using HTML and CSS. This sidebar menu is designed to provide an intuitive navigation experience for users, enhancing the usability of web applications and websites.
+### **Wanderlust**  
+🌍 **Wanderlust** connects homeowners renting out their properties with travelers looking for accommodations. The platform includes advanced filters to help travelers find the perfect place to stay.  
+- **Technologies**: HTML, CSS, JavaScript, MongoDB, Express.js, EJS Templates  
+🔗 **GitHub**: [Wanderlust](https://github.com/anuragpardeshii/Wanderlust)  
 
+---
 
-### Project 2: Spotify-clone (https://github.com/anuragpardeshii/Spotify-CSS.git)
-Description: The Spotify Clone is a visually appealing and responsive replica of the popular music streaming service Spotify, created using HTML and CSS. This project demonstrates the use of modern web design techniques to recreate the look and feel of Spotify's user interface.
+### **Bagiya**  
+🌱 **Bagiya** is a focus app that rewards users with virtual coins for staying focused on tasks. These coins can be redeemed to plant real trees, supporting environmental sustainability through partnerships.  
+- **Technologies**: MERN Stack, Bootstrap  
+🔗 **GitHub**: [Bagiya](https://github.com/anuragpardeshii/Bagiya-React)  
 
-## 🌐 Connect with Me
+---
 
-- LinkedIn: [Anurag Pardeshi](https://www.linkedin.com/in/pardeshianurag22/)
-- Personal Website: https://anuragpardeshiportfolio.vercel.app/
+### **Portfolio**  
+💼 My personal portfolio showcases my skills, projects, and professional background.  
+- **Technologies**: React.js, Vite  
+🔗 **GitHub**: [Portfolio](https://github.com/anuragpardeshii/Portfolio)  
+
+---
+
+### **Simon Says**  
+🎮 **Simon Says** is an interactive memory game where players replicate sequences of blinking colored boxes. It challenges and enhances memory, focus, and pattern recognition.  
+- **Technologies**: JavaScript, HTML, CSS  
+🔗 **GitHub**: [Simon Says](https://github.com/anuragpardeshii/Simon-Says-Mini-Project)  
+
+---
+
+## 🔧 **Skills & Technologies**
+
+- **Frontend**: React.js, HTML5, CSS3, TailwindCSS, Bootstrap  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB  
+- **Other Tools**: Git, GitHub, LeetCode  
+
+---
+
+## 📈 **GitHub Activity**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragpardeshii&show_icons=true&hide_title=true&hide=issues&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpardeshii&layout=compact&theme=github_dark)  
+
+---
+
+## 🤝 **Connect With Me**
+
+I'm always open to collaboration, feedback, and new opportunities! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pardeshianurag22/) or check out my portfolio.
+
+---
+
+Thanks for visiting my profile! 🚀
