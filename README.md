@@ -1,73 +1,45 @@
-# 🌟 Anurag Pardeshi
+<div align="center">
 
-Hi! I'm **Anurag Pardeshi**, a passionate **Full Stack Developer** with expertise in the **MERN stack**. I enjoy building impactful web applications and solving real-world problems with clean, efficient code.
+# Hi! I'm Anurag Pardeshi 👋  
 
----
+I'm a passionate **Full Stack Developer** with expertise in the **MERN (MongoDB, Express.js, React, Node.js) stack**.  
+I love building impactful web applications and solving real-world problems with **clean, efficient code**.  
+Always learning, innovating, and creating! 🚀
 
-## 🌐 **Portfolio & Profiles**
+<br />
 
-- **Portfolio**: [anuragpardeshiportfolio.vercel.app](https://anuragpardeshiportfolio.vercel.app/)  
-- **LinkedIn**: [linkedin.com/in/pardeshianurag22](https://www.linkedin.com/in/pardeshianurag22/)  
-- **LeetCode**: [leetcode.com/u/anuragpardeshi](https://leetcode.com/u/anuragpardeshi/)  
 
----
 
-## 🛠️ **Projects**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragpardeshii&show_icons=true&theme=radical)
 
-### **Wisdom World Academy**  
-📘 A school website built with the **MERN stack** and **TailwindCSS**. This project offers an intuitive platform for students, teachers, and administrators to access school-related information seamlessly.  
-🔗 **GitHub**: [Wisdom World Academy](https://github.com/anuragpardeshii/wwa)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuragpardeshii&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpardeshii&layout=compact&theme=radical)
 
-### **Wanderlust**  
-🌍 **Wanderlust** connects homeowners renting out their properties with travelers looking for accommodations. The platform includes advanced filters to help travelers find the perfect place to stay.  
-- **Technologies**: HTML, CSS, JavaScript, MongoDB, Express.js, EJS Templates  
-🔗 **GitHub**: [Wanderlust](https://github.com/anuragpardeshii/Wanderlust)  
+### Skills
+![MongoDB](https://img.shields.io/badge/MongoDB-eab308?style=for-the-badge&logo=MongoDB&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-3b82f6?style=for-the-badge&logo=ReactJS&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-3b82f6?style=for-the-badge&logo=NodeJS&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-3b82f6?style=for-the-badge&logo=ExpressJS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3b82f6?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-3b82f6?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=SQL&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-eab308?style=for-the-badge&logo=Redux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-eab308?style=for-the-badge&logo=Java&logoColor=white)
 
----
+### Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/anuragpardeshii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pardeshianurag22)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://portfolio-freelancer-rho.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pardeshianurag22@gmail.com)
 
-### **Bagiya**  
-🌱 **Bagiya** is a focus app that rewards users with virtual coins for staying focused on tasks. These coins can be redeemed to plant real trees, supporting environmental sustainability through partnerships.  
-- **Technologies**: MERN Stack, Bootstrap  
-🔗 **GitHub**: [Bagiya](https://github.com/anuragpardeshii/Bagiya-React)  
+### Contributions
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragpardeshii&theme=react-dark)
 
----
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=anuragpardeshii&color=blueviolet)
 
-### **Portfolio**  
-💼 My personal portfolio showcases my skills, projects, and professional background.  
-- **Technologies**: React.js, Vite  
-🔗 **GitHub**: [Portfolio](https://github.com/anuragpardeshii/Portfolio)  
+### Trophy Case
+![Trophies](https://github-profile-trophy.vercel.app/?username=anuragpardeshii&theme=darkhub&row=1)
 
----
-
-### **Simon Says**  
-🎮 **Simon Says** is an interactive memory game where players replicate sequences of blinking colored boxes. It challenges and enhances memory, focus, and pattern recognition.  
-- **Technologies**: JavaScript, HTML, CSS  
-🔗 **GitHub**: [Simon Says](https://github.com/anuragpardeshii/Simon-Says-Mini-Project)  
-
----
-
-## 🔧 **Skills & Technologies**
-
-- **Frontend**: React.js, HTML5, CSS3, TailwindCSS, Bootstrap  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB  
-- **Other Tools**: Git, GitHub, LeetCode  
-
----
-
-## 📈 **GitHub Activity**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragpardeshii&show_icons=true&hide_title=true&hide=issues&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpardeshii&layout=compact&theme=github_dark)  
-
----
-
-## 🤝 **Connect With Me**
-
-I'm always open to collaboration, feedback, and new opportunities! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pardeshianurag22/) or check out my portfolio.
-
----
-
-Thanks for visiting my profile! 🚀
+</div>
