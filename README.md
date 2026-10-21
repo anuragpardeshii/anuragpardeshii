@@ -3,9 +3,6 @@
 # Hi! I'm Anurag Pardeshi 👋  
 
 <br />
-<img src="https://i.imgur.com/Cxf2gid.png" alt="Anurag Pardeshi Banner" width="70%" heigth: "80%">
-<br />
-<br />
 
 ## 🚀 Full Stack Developer  
 
